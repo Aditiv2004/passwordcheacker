@@ -2,7 +2,7 @@
 
 A modern, responsive password strength checker built with **HTML, CSS, and vanilla JavaScript**. It provides real-time feedback on password strength with a stylish UI using glassmorphism design.
 
-![Password Strength Checker Screenshot](./screenshot.png)
+<img width="479" height="295" alt="image" src="https://github.com/user-attachments/assets/7d98b078-036a-4eae-9422-f7b5c9b90df0" />
 
 ---
 
@@ -26,4 +26,4 @@ A modern, responsive password strength checker built with **HTML, CSS, and vanil
 
 ## 📦 Folder Structure
 
-<img width="479" height="295" alt="image" src="https://github.com/user-attachments/assets/7d98b078-036a-4eae-9422-f7b5c9b90df0" />
+
